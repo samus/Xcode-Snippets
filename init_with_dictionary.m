@@ -1,6 +1,7 @@
 // Init With Dictionary
 // 
 //
+// IDECodeSnippetCompletionPrefix: initWithDict
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 99526422-4F49-4675-A98D-AE71C10D6254
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
