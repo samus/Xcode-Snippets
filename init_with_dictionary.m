@@ -1,5 +1,5 @@
 // Init With Dictionary
-// 
+// Init method that takes a dictionary as an argument
 //
 // IDECodeSnippetCompletionPrefix: initWithDict
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
